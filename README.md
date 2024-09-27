@@ -22,7 +22,7 @@ forked from peng4740/Cloud189Checkin-Actions
 **PWD**
 ```
 cxkjntm
-jntmcxk
+jntmcxkjntmcxk
 ```
 
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
